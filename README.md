@@ -36,6 +36,12 @@ PROGRAM:
 
 ![output](./program.jpg)
 
+TEXT:
+
+
+![output](./text.jpg)
+
+
 TERMINAL:
 
 
