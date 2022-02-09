@@ -32,9 +32,13 @@ with open(sys.argv[1],'r')  as f:
 
 ### OUTPUT:
 PROGRAM:
+
+
 ![output](./program.jpg)
 
 TERMINAL:
+
+
 ![output](./terminal.jpg)
 
 
